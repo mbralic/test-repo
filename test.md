@@ -3,9 +3,10 @@
 
 ### This is a list
 
-*list
-*list list
-*list list list
+* list
+* list list
+* list list list
+
 
 
 
